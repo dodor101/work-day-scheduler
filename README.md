@@ -21,3 +21,5 @@ This is a simple work day calendar application that allows a user to save events
 ![A screenshot](./Assets/image/screenshot.png)
 
 ## live page
+
+[Deployed page.](https://dodor101.github.io/work-day-scheduler/)
