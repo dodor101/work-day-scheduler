@@ -18,6 +18,6 @@ This is a simple work day calendar application that allows a user to save events
 
 ## Screenshot
 
-![A screenshot](./assets/Assets/image/screenshot.png)
+![A screenshot](./Assets/image/screenshot.png)
 
 ## live page
